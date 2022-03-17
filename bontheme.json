@@ -3,10 +3,10 @@
         "version": "1.0.1",
         "author": "Marsy#9998",
         "name": "uvu",
-        "updater": ""
+        "updater": "https://github.com/Conchobon/chobontheme"
     },
     "background": {
-        "url": "",
+        "url": "https://ibb.co/gJCkCwP",
         "blur_radius": 0
     },
     "fonts": {},
